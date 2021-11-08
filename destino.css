@@ -1,0 +1,193 @@
+.bloque_titulo {
+  font-family: fantasy; 
+text-align: center;
+margin-left: 550px;
+}
+
+.lista_fundas {
+  text-align: center;
+  font-family: fantasy;
+  color: #d8abd8;
+  display: inline-block;
+  list-style-position: inside;
+  margin: 1%; }
+
+.enlaces_fotos {
+  display: block;
+  color: burlywood;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none; }
+
+.lista_marcas {
+  color: #d8abd8;
+  font-family: fantasy;
+  display: inline-block;
+  text-align: center; }
+
+.italica_titulo {
+  font-style: italic;
+  text-align: center;
+  margin-left: 20%;
+  border-width: 5px;
+  background-image: linear-gradient(to left, #ee9ca7, #ffdde1); }
+
+.lista_accesorios {
+  text-align: center;
+  margin-left: 20%;
+  color: #3a233a;
+  display: inline-flex; }
+
+.preguntas_frecuentes {
+  color: #ad6ead;
+  font-family: 'Style Script', cursiva;
+  border: 2px solid #f3cc84;
+  padding: 20px;
+  width: 50%;
+  background-color: #f1dde9;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 40%; }
+
+.nuestras_redes {
+  color: salmon;
+  font-family: fantasy;
+  margin-bottom: 50px;
+  margin-top: 50px; }
+
+.preguntas_frecuentes {
+  background-color: #f7c5e6;
+  width: 360px; 
+  font-family: 'Style Script', cursiva;
+}
+.preguntas{
+  font-family: 'Style Script', cursiva;
+  text-align: center;
+  color: #ad6ead;
+
+}
+.btn--mail {
+  background-color: #e09de2; }
+
+.btn--instagram {
+  background-color: #3a5795; }
+
+h1 {
+  color: #d8abd8;
+  font-family: monospace;
+  text-align-last: center; }
+
+strong {
+  color: #b19999;
+  text-align: center;
+  font-family: monospace; }
+
+h3 {
+  color: #f0bf91;
+  text-align: center; }
+
+ul {
+  list-style-type: inherit; }
+
+body {
+  font-family: 'Style Script', cursiva;
+  font-family: 'WindSong', cursiva;
+  background-color: palevioletred;
+  text-align: center; }
+.formulario {
+  color: #ad6ead;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px solid #f3cc84;
+  padding: 20px;
+  width: 50%;
+  background-color: #f1dde9;
+  margin-top: 30px;
+  margin-bottom: 30px; }
+
+.italica {
+  font-style: italic;
+  text-align: center;
+  margin-left: 20%;
+  border-width: 5px;
+  background-image: linear-gradient(to left, #ee9ca7, #ffdde1); }
+
+th {
+  color: mediumorchid; }
+
+table {
+  text-align: center;
+  margin-left: 17%;
+  margin-bottom: 5%;
+  margin-top: 5%; }
+
+header {
+  text-align: center; }
+
+.carousel-item active {
+  margin-left: 350px; }
+
+.carousel-item {
+  margin-left: 350px; }
+
+.menu {
+  overflow: hidden;
+  background-color: #d8abd8; }
+
+.menu a {
+  float: left;
+  display: block;
+  color: burlywood;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none; }
+   body{
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-acuarela_220290-40.jpg?size=626&ext=jpg")
+}
+body{
+    background: position 50px;
+}
+body{
+    background-position: center;
+}
+header{
+    padding: 20px;
+    background-color: thistle;
+    color: white;
+    font-size: 2cm;
+    font-family:monospace;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    display: flex;
+    background-color:rgb(243, 204, 132);
+    justify-content: center;
+    flex-direction: row;
+}
+nav a{
+    text-decoration: none;
+    padding: 10px;    
+}
+nav a:hover{
+background-color: thistle;
+}
+h1{
+   display: flex;
+   background-color:thistle;
+   color: white;
+   font-size: 1cm;
+   justify-content: center;   
+}
+ul{
+   display: flex;
+   text-decoration: none;
+   padding: 5px;
+   flex-direction: column;
+}
+.titulo{
+  text-align: center;
+  font-family: 'Style Script', cursiva;
+
+
+}
